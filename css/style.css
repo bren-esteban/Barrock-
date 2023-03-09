@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background-color: rgb(190, 106, 106);
+}
+
+title{
+    font-family: 'Raleway', sans-serif;}
+
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 63px;
+}
+
+header {
+    background-color: rgb(177, 148, 111);
+    font-family: 'Cinzel', serif;
+}
+
+h1 {
+    font-family: 'Cinzel', serif;
+    color: rgba(56, 7, 7, 0.274);
+    margin-bottom: 40px;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+h2 {
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h3 {
+    text-align: center;
+}
+
+
+a {
+    color: rgb(80, 17, 17);
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+p {
+    text-align: center;
+}
+
+#pieDePagina {
+    background-color: brown;
+}
+
+.contact1{
+    text-align: left;
+}
